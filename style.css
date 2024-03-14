@@ -1,0 +1,20 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.warna{
+    color: #cb6ce6;
+}
+
+#merah{
+    color: #ff3131;
+}
+
+[value="3"]{
+    color: #ffde59;
+}
